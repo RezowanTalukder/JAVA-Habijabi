@@ -1,0 +1,6 @@
+package skin;
+
+
+class skin {
+
+}
